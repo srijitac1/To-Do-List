@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✨ To Do List
 
 A beautiful, responsive todo list application built with React, TypeScript, and Tailwind CSS. Features colorful post-it notes with a modern, intuitive interface.
@@ -124,3 +125,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ⭐ **Star this repository if you found it helpful!**
 
 Made with ❤️ by [Your Name] 
+=======
+# To-Do-List
+>>>>>>> a07ab0f0d5cbef872c487fa6fd114e6f25ae28d4
