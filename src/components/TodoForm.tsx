@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 
 interface TodoFormProps {
   onAddTodo: (text: string, selectedColor?: string) => void
